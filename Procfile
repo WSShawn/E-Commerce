@@ -1,1 +1,1 @@
-worker: Project.py
+worker: requirements.txt
